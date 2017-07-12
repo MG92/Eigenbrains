@@ -17,7 +17,7 @@ Results:
 
 outlier detection:
 
-![abnormalities](/results/anomalies.png)
+![anomalies](/results/anomalies.png)
 
 sample of highlighted outlier images:
 
